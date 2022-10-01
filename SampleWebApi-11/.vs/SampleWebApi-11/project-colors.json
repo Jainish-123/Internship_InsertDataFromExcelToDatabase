@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f5e55788-112f-43e0-99e8-011ef7d843ae": {
+      "ProjectGuid": "f5e55788-112f-43e0-99e8-011ef7d843ae",
+      "DisplayName": "SampleWebApi-11",
+      "ColorIndex": 0
+    },
+    "fb1bc5a7-cd58-4811-b631-157af31db7c1": {
+      "ProjectGuid": "fb1bc5a7-cd58-4811-b631-157af31db7c1",
+      "DisplayName": "classADO-11",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
